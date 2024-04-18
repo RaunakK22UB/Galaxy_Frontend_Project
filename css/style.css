@@ -360,11 +360,11 @@ footer ul li a:hover {
   background-image: url('../img/dragon.webp');
 }
 .bg-Nasa {
-  background-image: url('../img/probe_mission.webp'); /* Adjust the path and filename accordingly */
+  background-image: url('../img/probemission.webp'); /* Adjust the path and filename accordingly */
   
 }
 .bg-Isro {
-  background-image: url('../img/chandrayan_isro1-transformed.jpeg'); /* Adjust the path and filename accordingly */
+  background-image: url('../img/chandrayanisro1transformed.jpeg'); /* Adjust the path and filename accordingly */
   
 }
 
